@@ -2,10 +2,10 @@ dfc
 dtach
 gvim-python3
 highlight
-htop-vi
+htop-vim-git
 iftop
 iotop
-links
+elinks
 lsof
 memtest86+
 ncdu
