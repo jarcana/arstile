@@ -3,6 +3,7 @@ escrotum-git
 feh
 gpick
 leafpad
+mupdf
 scite
 scrot
 surf
@@ -10,4 +11,5 @@ viewnior
 xautolock
 xclip
 xdotool
+xpdf
 xsel
