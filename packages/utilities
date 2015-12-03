@@ -1,11 +1,11 @@
 dfc
 dtach
+elinks
 gvim-python3
 highlight
 htop-vim-git
 iftop
 iotop
-elinks
 lsof
 memtest86+
 ncdu
@@ -16,6 +16,7 @@ ranger
 rar
 slock
 sxhkd-git
+testdisk
 tig
 tmux
 tree
